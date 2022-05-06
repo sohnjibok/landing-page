@@ -8,9 +8,8 @@
 .nav-container {
     background-color: #1F2937;
     width: 100%;
-    padding-left: 15rem;
-    padding-right: 15rem;
-    padding-top: 1rem;
+    padding: 1rem 15rem;
+    display: flex;
 }
 
 nav h1 {
@@ -18,5 +17,22 @@ nav h1 {
     font-size: 24px;
 }
 
+nav ul {
+    list-style-type: none;
+    margin-left: auto;
+    font-size: 18px;
+    font-weight: lighter;
+    display: flex;
+    align-items: flex-end;
+    gap: 20px;
+}
 
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: #E5E7EB;
+    text-decoration: none;
+}
 

@@ -138,4 +138,18 @@ nav ul li a {
     padding: 2.5rem 8rem;
     background-color: #3882F6;
     color: #F9FAF8;
+    border-radius: 10px;
+}
+
+.banner-text p {
+    font-weight: 300;
+}
+
+.banner-block button {
+    font-weight: bold;
+    width: 8rem;
+    color: #E5E7EB;
+    border: 3px solid #F9FAF8;
+    border-radius: 10px;
+    background: none;
 }

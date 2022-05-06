@@ -88,5 +88,12 @@ nav ul li a {
 
 .cards-row {
     display: flex;
-    gap: 1rem;
+    gap: 4rem;
+}
+
+.card-image {
+    height: 10rem;
+    width: 100%;
+    border: 5px solid #3882F6;
+    border-radius: 15px;
 }

@@ -126,3 +126,16 @@ nav ul li a {
     font-weight: 700;
     text-align: right;
 }
+
+.banner-container {
+    width: 100%;
+    padding: 2.5rem 15rem;
+}
+
+.banner-block {
+    display: flex;
+    justify-content: space-between;
+    padding: 2.5rem 8rem;
+    background-color: #3882F6;
+    color: #F9FAF8;
+}

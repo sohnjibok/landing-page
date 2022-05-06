@@ -133,8 +133,10 @@ nav ul li a {
 }
 
 .banner-block {
+    height: 10rem;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 2.5rem 8rem;
     background-color: #3882F6;
     color: #F9FAF8;
@@ -147,9 +149,19 @@ nav ul li a {
 
 .banner-block button {
     font-weight: bold;
+    height: 3rem;
     width: 8rem;
     color: #E5E7EB;
     border: 3px solid #F9FAF8;
     border-radius: 10px;
     background: none;
+}
+
+footer {
+    padding: 3rem;
+    background: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    letter-spacing: 2.5px;
+    word-spacing: 5px;
 }

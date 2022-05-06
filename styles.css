@@ -72,3 +72,8 @@ nav ul li a {
     border-radius: 5px;
     font-weight: bolder;
 }
+
+.cards-container {
+    width: 100%;
+    padding: 2.5rem 15rem;
+}

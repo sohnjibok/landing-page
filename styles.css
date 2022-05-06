@@ -85,3 +85,8 @@ nav ul li a {
     text-align: center;
     margin-bottom: 2rem;
 }
+
+.cards-row {
+    display: flex;
+    gap: 1rem;
+}

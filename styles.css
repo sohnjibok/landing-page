@@ -77,3 +77,11 @@ nav ul li a {
     width: 100%;
     padding: 2.5rem 15rem;
 }
+
+.cards-container h1 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    margin-bottom: 2rem;
+}

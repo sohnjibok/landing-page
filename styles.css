@@ -2,9 +2,21 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'roboto';
 }
 
-.container {
-    max-width: 75%;
-    margin: auto;
+.nav-container {
+    background-color: #1F2937;
+    width: 100%;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-top: 1rem;
 }
+
+nav h1 {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+
+

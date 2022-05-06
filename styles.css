@@ -76,6 +76,7 @@ nav ul li a {
 .cards-container {
     width: 100%;
     padding: 2.5rem 15rem;
+    padding-bottom: 7rem;
 }
 
 .cards-container h1 {
@@ -96,4 +97,10 @@ nav ul li a {
     width: 100%;
     border: 5px solid #3882F6;
     border-radius: 15px;
+}
+
+.card-text {
+    text-align: center;
+    margin-top: 10px;
+    color: #1F2937;
 }
